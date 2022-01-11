@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(238, 225, 225);
+}
+.flashy {
+  color:palevioletred ;
+  font-family: monospace;
+}
+
+img {
+  width: 20%;
+  height:auto;
+  
+}
+
+.best {
+  font-weight: bold;
+}
+
+.flashy2 {
+  font-style: italic;
+}
+
+.column1 {
+  width:30%;
+  float: right;
+}
+
+.column2 {
+  width: 30%;
+  float: inline-end;
+}
+
+.cake {
+  float: right;
+}
